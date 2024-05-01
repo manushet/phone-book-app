@@ -11,7 +11,7 @@
             "port": 9003,
             "cwd": "${workspaceRoot}",
             "pathMappings": {
-                "/app": "${workspaceFolder}"
+                "/app": "${workspaceFolder}/app-backend"
             }
         }
     ]

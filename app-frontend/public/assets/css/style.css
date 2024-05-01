@@ -1,0 +1,14 @@
+.ws-grey {
+    background-color: #E7E9EB !important;
+    color: black !important;
+}
+.w3-padding {
+    padding: 1em 2em 2em;
+}
+.w3-border {
+    border: 1px solid #ccc !important;
+}
+
+.w3-round, .w3-round-medium {
+    border-radius: 4px;
+}
